@@ -1,0 +1,10 @@
+# Terraform
+.terraform
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+*.terraform.lock.hcl
+# Terraform logs
+*.log
+
